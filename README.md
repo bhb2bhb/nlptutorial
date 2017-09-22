@@ -5,6 +5,7 @@ NLP Programming Tutorial
 * [Olde Schedule](#old-schedule)
 * [New Tentative Schedule](#new-tentative-schedule)
 * [Dataset](#dataset)
+* [Members](#members)
 
 ### Intro Words
 
@@ -78,3 +79,9 @@ A more tentative schedule would be the following:
 ### Dataset
 
 Since Neubig is giving tutorials to his group used to be in NAIST, Japan. So some of the dataset he prepared for his students for training and testing are in Japanese, which is not so suitable for us Chinese. So some of the dataset would be augmented to include Chinese ones which is easy for experiment analysis and making sense to us. 
+
+### Members
+
+Currently, we have following lovely members: 
+
+> 白雪峰 鲍航波 陈双 龚恒 候宇泰 胡东瑶 李冠林 马晶义 田恕存 王贺伟 王瑛瑶 杨奭喆 吴焕钦 张冠华 张丽媛 赵晓妮 赵笑天
