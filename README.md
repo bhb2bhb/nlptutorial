@@ -1,7 +1,13 @@
 NLP Programming Tutorial
 ========================
 
+[TOC]
+
+### Intro Words
+
 This is an NLP and ML practical programming course delivered by [Graham Neibig](http://www.phontron.com/) which is very awesome, and covers many classic basics of natural language processing and the machine learning methods applied. This fork from Neubig is to adapt to his materials to our [Evening Tea Party](https://epsilon-lee.github.io/party/) here at Harbin Institute of Technology. I hope this course of study would be relaxing, joyful and rewarding. 
+
+### Old Schedule
 
 This is a tutorial to learn the basics of natural language processing and machine learning through programming exercises using Python.
 The tutorial files are in the "download" directory, so please open up this directory and view the PDF there.
@@ -23,7 +29,9 @@ Currently, this tutorial covers the following material:
   * **Tutorial 12:** Structured Perceptron
   * **Tutorial 13:** Search Algorithms 
   * **Bonus 1:** Kana-Kanji Conversion for Japanese Input
-  
+
+### New Tentative Schedule
+
 A more tentative schedule would be the following: 
 
 - N-gram Language Models (LMs)
@@ -63,3 +71,7 @@ A more tentative schedule would be the following:
 - Structured Perceptron and Search Algorithms
   - Structured perceptron training for HMM.
   - The concept of intractable search problems; Beam search for intractable decoding.
+
+### Dataset
+
+Since Neubig is giving tutorials to his group used to be in NAIST, Japan. So some of the dataset he prepared for his students for training and testing are in Japanese, which is not so suitable for us Chinese. So some of the dataset would be augmented to include Chinese ones which is easy for experiment analysis and making sense to us. 
