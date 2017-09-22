@@ -1,10 +1,10 @@
 NLP Programming Tutorial
 ========================
 
-* [Intro Words](#Intro Words)
-* [Olde Schedule](#Old Schedule)
-* [New Tentative Schedule](#New Tentative Schedule)
-* [Dataset](#Dataset)
+* [Intro Words](#intro-words)
+* [Olde Schedule](#old-schedule)
+* [New Tentative Schedule](#new-tentative-schedule)
+* [Dataset](#dataset)
 
 ### Intro Words
 
